@@ -30,6 +30,9 @@
 ------
 
 - **基于原始激光点云的长廊环境自识别**
+<div align="center">
+    <img src="gif/long_corridor_detection.gif" >
+</div>
 
 ## 变化场景中的地图自更新
 
