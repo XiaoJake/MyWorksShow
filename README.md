@@ -132,13 +132,14 @@
 </div>
 
 ## 局部场景下高精鲁棒定位
+> 蓝色为先验地图,白色为实时点云
 
 <div align="center">
     <img src="gif/fg_chargeroom_loc.gif" width = 100% >
 </div>
 
 - 多人干扰,新增障碍物下的鲁棒定位
-
+> 可以看到有很多白色的动态障碍物和静态未在先验地图中的障碍物
 <div align="center">
     <img src="gif/fg_chargeroom_loc_anti_interference.gif" width = 100% >
 </div>
